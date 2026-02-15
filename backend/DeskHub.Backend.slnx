@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeskHub.API/DeskHub.API.csproj" />
+  <Project Path="DeskHub.Application/DeskHub.Application.csproj" />
+  <Project Path="DeskHub.Domain/DeskHub.Domain.csproj" />
+  <Project Path="DeskHub.Infrastructure/DeskHub.Infrastructure.csproj" />
+</Solution>
